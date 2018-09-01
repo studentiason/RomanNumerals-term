@@ -29,5 +29,3 @@ rn_hunz=numbers[int(num[hunz])][2]
 rn_touz=int(touz) * "M"
 
 print("{3}{2}{1}{0}" .format(rn_onez,rn_tenz,rn_hunz,rn_touz))
-
-
