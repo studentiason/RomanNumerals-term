@@ -13,9 +13,13 @@ numbers = {
 9 : ["IX","XC","CM"],
 0 : ["","",""]
 }
+
+
 print("Roman Numeral")
 
+
 num=input("Number to Romanize >>> ")
+
 
 onez=len(num)-1
 tenz=len(num)-2
@@ -27,5 +31,6 @@ rn_onez=numbers[int(num[onez])][0]
 rn_tenz=numbers[int(num[tenz])][1]
 rn_hunz=numbers[int(num[hunz])][2]
 rn_touz=int(touz) * "M"
+
 
 print("{3}{2}{1}{0}" .format(rn_onez,rn_tenz,rn_hunz,rn_touz))
