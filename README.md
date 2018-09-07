@@ -15,3 +15,4 @@ TO DO
 + [ ] numbers < 1,000
 + [ ] Colors
 + [ ] argvs
++ make pretty
