@@ -1,6 +1,5 @@
-*.odt
-*.ods
 *.tmp
-.RZR/
+*#
+*~
 TMP/
 
