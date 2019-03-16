@@ -4,9 +4,12 @@
 
 Simple command line tool for converting to Roman Numerals.
 
-prompts
+
+## USEAGE
+it prompts
 
 ## TODO
+
 
 -   [ ] numbers > 1k
 -   [ ] argvs
