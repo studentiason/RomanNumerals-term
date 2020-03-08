@@ -1,5 +1,11 @@
 #!/usr/bin/python3
 
+"""
+RomanNumerals-term
+
+convert numbers to Roman Numerals on teh command line
+
+"""
 
 numbers = {
     1: ["I", "X", "C"],
